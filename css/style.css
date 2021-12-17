@@ -7,8 +7,3 @@ p{color:green; font-size:12px;}
 input[type="text"]{width:200px; background-color:#ccc; height:35px; border:none;}
 input[type="email"]{width:200px; background-color:rgb(204, 204, 204); height:35px; border:none;}
 input[type="submit"]{width:50px; background-color:rgb(0, 255, 55); height:35px; border:none; cursor:pointer; color:#fff;}
-
-/* Aula 1
-    h1 {color:blue; 
-    font-size:60px; 
-    font-family:tahoma;}/*
